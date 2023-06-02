@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👋 Hi, I’m Neftali Aguilar Alvarez, a Full Stack Developer
+- 👀 I’m interested in frontend and backend development
+- 🌱 I’m currently improving vue and tools related to it
+- 💞️ I’m looking to collaborate on any start up o software company that could give an opportunity
+- 📫 You can reach me at [iaguilar.neftali@gmail.com](mailto:iaguilar.neftli@gmail.com)
